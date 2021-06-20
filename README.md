@@ -1,1 +1,1 @@
-# TSCLI
+# TypeScript Project Setup
